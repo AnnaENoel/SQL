@@ -1,8 +1,8 @@
-Dataset: My Player Stats from Overwatch 2
-Source: Overwatch 2 / Blizzard / 
-Queried using: Microsoft SQL Server
+-- Dataset: My Player Stats from Overwatch 2
+-- Source: Overwatch 2 / Blizzard / 
+-- Queried using: Microsoft SQL Server
 
-The following SQL Queries will show the creation of various tables and inserting data associated with each table
+-- The following SQL Queries will show the creation of various tables and inserting data associated with each table
 
 --TABLE 1 QUERY: The statistics across all characters.
 
